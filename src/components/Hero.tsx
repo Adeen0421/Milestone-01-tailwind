@@ -20,7 +20,7 @@ const Hero = () => {
         <div className="flex flex-col justify-center items-center lg:items-start mt-12 lg:mt-0 px-4">
           <div className="text-center lg:text-left">
             <p className="text-5xl sm:text-5xl md:text-7xl font-bold leading-tight">
-              I'm
+              Im
             </p>
             <p className="text-5xl sm:text-6xl md:text-7xl font-bold">Adeen</p>
             <p className="text-5xl sm:text-6xl md:text-7xl font-bold">Khan</p>
